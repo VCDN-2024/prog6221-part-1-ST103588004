@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\RecipeApp\RecipeApp\obj\Debug\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\RecipeApp\RecipeApp\obj\Debug\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\RecipeApp\RecipeApp\bin\Debug\RecipeApp.exe.config
+C:\Users\david\source\repos\RecipeApp\RecipeApp\bin\Debug\RecipeApp.exe
+C:\Users\david\source\repos\RecipeApp\RecipeApp\bin\Debug\RecipeApp.pdb
+C:\Users\david\source\repos\RecipeApp\RecipeApp\obj\Debug\RecipeApp.exe
+C:\Users\david\source\repos\RecipeApp\RecipeApp\obj\Debug\RecipeApp.pdb
